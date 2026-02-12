@@ -9,3 +9,6 @@ class Calculator:
     
     def mul(self, a, b):
         return a*b
+    
+    def cprint(self):
+        print("Calculator")
